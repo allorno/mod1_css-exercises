@@ -8,4 +8,8 @@ img {
   max-width: 100%;
 }
 
+.outside {
+  height: 150px;
+}
+
 /* Code Under This Line */
