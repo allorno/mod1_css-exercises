@@ -5,6 +5,9 @@ p {
 
 img {
   max-width: 100%;
+  display: inline-block;
+  padding: 0px;
+
 }
 
 .box {
@@ -12,6 +15,8 @@ img {
   height: 180px;
   margin-left: 15px;
   margin-bottom: 20px;
+  border: 1px solid black; /* delete me! */
 }
+
 
 /* Your Code Goes Under This Line */

@@ -18,9 +18,10 @@ img {
 /* Your Code Goes Under This Line */
 
 .subtle {
-
+  transition: 0.5s;
 }
 
 .subtle:hover {
-
+  transition: 1s;
+  box-shadow: 3px 3px 3px 3px blue;
 }

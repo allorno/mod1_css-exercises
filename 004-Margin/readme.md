@@ -1,13 +1,17 @@
-# Margin
-Learn how to write CSS to change the margin of elements.
+# 004-Margins
+***
 
-* Start the server(see below)
-* Add style to finish the challenge in `localhost:8000`
+## Goal: Adjust the margins of HTML elements.
 
-## Style
-* Add custom CSS to app.css
+*Instructions:*
 
-## Server
-1. In the terminal, `cd` into the `004-margin` directory
-1. Run `python -m SimpleHTTPServer` to start a server
-1. Visit localhost:8000 to see the index page
+Try to replicate the example image provided on the webpage by adding styling in your
+`app.css` file using the `margin` property.
+
+*Hint*: You can set margins using a number of patterns:
+
+
+`margin:10px` :  all four margins are 10px.
+`margin:10px 5px` :  top and bottom margins are 10px. right and left margins are 5px.
+`margin:10px 5px 15px` :  top margin is 10px. right and left margins are 5px. bottom margin is 15px.
+`margin:10px 5px 15px 20px` :  top margin is 10px. right margin is 5px. bottom margin is 15px. left margin is 20px.
