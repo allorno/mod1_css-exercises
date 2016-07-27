@@ -1,13 +1,11 @@
-# Padding
-Learn how to write CSS to change the padding of elements.
+# 005-Padding
+***
 
-* Start the server(see below)
-* Add style to finish the challenge in `localhost:8000`
+## Goal: Adjust the padding of HTML elements.
 
-## Style
-* Add custom CSS to app.css
+*Instructions:*
 
-## Server
-1. In the terminal, `cd` into the `005-padding` directory
-1. Run `python -m SimpleHTTPServer` to start a server
-1. Visit localhost:8000 to see the index page
+Try to replicate the example image provided on the webpage by adding styling in your
+`app.css` file using the `padding` property.
+
+*Hint:* You can set padding using the same pattern as margins.

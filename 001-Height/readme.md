@@ -1,13 +1,9 @@
-# Height
-Learn how to write CSS to change the height of elements.
+# 001-Height
+***
 
-* Start the server(see below)
-* Add style to finish the challenge in `localhost:8000`
+## Goal: Adjust the height of HTML elements.
 
-## Style
-* Add custom CSS to app.css
+*Instructions:*
 
-## Server
-1. In the terminal, `cd` into the `001-height` directory
-1. Run `python -m SimpleHTTPServer` to start a server
-1. Visit localhost:8000 to see the index page
+Try to replicate the example image provided on the webpage by adding styling in your
+`app.css` file using the `height` property.

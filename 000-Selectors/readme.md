@@ -1,14 +1,14 @@
-# Selection
-Write class selectors to match markup.
+# 000-Selectors
+***
 
-* Start the server(see below)
-* Add style to finish the challenge in `localhost:8000`
+## Goal: Practice using CSS selectors to style HTML elements.
 
+*Instructions:*
 
-## Style
-* Add custom CSS to app.css
+Open the `index.html` in your browser using `$ open index.html` in the terminal.
 
-## Server
-1. In the terminal, `cd` into the `000-selectors` directory
-1. Run `python -m SimpleHTTPServer` to start a server
-1. Visit localhost:8000 to see the index page
+Note: From now on, `$` will be used to denote code that should be run in the terminal,
+though you don't have to actually type `$`.
+
+Try to replicate the example image provided on the webpage by adding styling in your
+`app.css` file using the `background-color` property. 

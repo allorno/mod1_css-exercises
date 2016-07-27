@@ -1,10 +1,11 @@
-# Border Radius
-Use border radius to create misc shapes.
+# 010-Border-Radius
+***
 
-## Style
-* Add custom CSS to app.css
+## Goal: Use border-radius to create two circles and a rounded rectangle.
 
-## Server
-1. In the terminal, `cd` into the `010-border-radius` directory
-1. Run `python -m SimpleHTTPServer` to start a server
-1. Visit localhost:8000 to see the index page
+*Instructions:*
+
+Try to replicate the three example images provided on the webpage by adding styling in your
+`app.css` file using the `border-radius` property.
+
+*Hint:* Read more about `border-radius` here: [http://www.css3.info/preview/rounded-border/]. You can ignore the moz/webkit stuff.

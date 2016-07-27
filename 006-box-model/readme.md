@@ -1,13 +1,9 @@
-# Box model
-Learn how to write CSS to change the elements in the box model.
+# 006-Box-Model
+***
 
-* Start the server(see below)
-* Add style to finish the challenge in `localhost:8000`
+## Goal: Create a box model.
 
-## Style
-* Add custom CSS to app.css
+*Instructions:*
 
-## Server
-1. In the terminal, `cd` into the `006-box-model` directory
-1. Run `python -m SimpleHTTPServer` to start a server
-1. Visit localhost:8000 to see the index page
+Try to replicate the example image provided on the webpage by adding styling in your
+`app.css` file. Make use of the properties you've already learned.

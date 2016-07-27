@@ -1,13 +1,9 @@
-# Box Sizing
-Learn how to use other stylesheets in your app, and see effect of reset.
+# 008-Box-Sizing
+***
 
-* Start the server(see below)
-* Add style and stylesheets to finish the challenge in `localhost:8000`
+## Goal: Fix the broken boxes so they form one continuous row.
 
-## Style
-* Add custom CSS to app.css
+*Instructions:*
 
-## Server
-1. In the terminal, `cd` into the `008-box-sizing` directory
-1. Run `python -m SimpleHTTPServer` to start a server
-1. Visit localhost:8000 to see the index page
+Try to replicate the example image provided on the webpage by adding styling in your
+`app.css` file using some of the properties you've already learned.
