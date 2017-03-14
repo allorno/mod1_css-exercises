@@ -19,6 +19,7 @@ div {
 }
 
 .column {
+  box-sizing: border-box;
   float: left;
   width: 25%;
 }
